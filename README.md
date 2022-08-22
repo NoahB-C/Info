@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NbCarr
-- 👀 I’m interested in retro games, dnd, horror, films
+- 👀 I’m interested in retro games, dnd, horror, studio ghibli, films
 - 🌱 I’m currently learning The Odin Project - Foundations Course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
