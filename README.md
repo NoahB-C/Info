@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NbCarr
-- 👀 I’m interested in retro games, dnd, horror, studio ghibli, films
+- 👀 I’m interested in video game collecting, DnD, lovecraftian horror and films
 - 🌱 I’m currently learning The Odin Project - Foundations Course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at nbalencarr@gmail.com
 
 <!---
 NbCarr/NbCarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
