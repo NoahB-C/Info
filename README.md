@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NbCarr
+- 👋 Hi, I’m @NoahB-C
 - 👀 I’m interested in video game collecting, DnD, lovecraftian horror and films
 - 🌱 I’m currently learning The Odin Project - Foundations Course
 - 📫 Reach me at nbalencarr@gmail.com
